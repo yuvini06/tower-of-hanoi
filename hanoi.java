@@ -1,6 +1,6 @@
 /* Towers of Hanoi implementation in Java without recursion
- * Usage:java hanoi <from> <to> <via> <disks>
- * Example:java hanoi 'A' 'B' 'C' 5 
+ * Usage: java hanoi <from> <to> <via> <disks>
+ * Example: java hanoi 'A' 'B' 'C' 5 
  */
 import java.util.Stack;
 
